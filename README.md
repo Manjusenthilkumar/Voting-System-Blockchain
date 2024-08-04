@@ -1,13 +1,14 @@
-**Voting System on Blockchain**
+#**Voting System on Blockchain**
 This project is a decentralized voting system built on a blockchain using Hardhat for deployment on the Sepolia network. The system ensures transparency and immutability, making it ideal for secure voting processes.
 
-**Table of Contents**
-Overview
-Features
-Technology Stack
-Installation
-Usage
-Smart Contract Deployment
+
+**## Table of Contents**
+- [Overview](#overview)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Smart Contract Deployment](#smart-contract-deployment)
 
 **1.Overview**
 The Voting System is a decentralized application (DApp) that allows users to vote securely and transparently using blockchain technology. The system is built with Solidity for smart contracts and uses Hardhat for deployment and testing.
